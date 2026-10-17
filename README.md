@@ -57,21 +57,23 @@ Sonexa is a mobile precious-metals companion focused on clear INR-per-gram refer
 
 ## Screenshots
 
-| Splash | Home dashboard |
-|:---:|:---:|
-| <img src="assets/1.png" alt="Sonexa splash screen" width="240" /> | <img src="assets/2.png" alt="Sonexa home dashboard" width="240" /> |
-
-| Location picker | Markets |
-|:---:|:---:|
-| <img src="assets/3.png" alt="City and location picker" width="240" /> | <img src="assets/4.png" alt="Gold and silver markets screen" width="240" /> |
-
-| Calculators | Settings |
-|:---:|:---:|
-| <img src="assets/5.png" alt="Jewellery, investment, and conversion calculators" width="240" /> | <img src="assets/6.png" alt="Sonexa settings screen" width="240" /> |
-
-| Price chart and Market watch | Gold sell WebView |
-|:---:|:---:|
-| <img src="assets/7.png" alt="Gold price performance chart and Market watch" width="240" /> | <img src="assets/8.png" alt="Tanishq Digital Gold sell page in the in-app WebView" width="240" /> |
+<table>
+  <tr>
+    <td align="center"><img src="assets/1.png" alt="Sonexa splash screen" width="140" /><br /><sub>Splash</sub></td>
+    <td align="center"><img src="assets/2.png" alt="Sonexa home dashboard" width="140" /><br /><sub>Home</sub></td>
+    <td align="center"><img src="assets/3.png" alt="City and location picker" width="140" /><br /><sub>Location picker</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/4.png" alt="Gold and silver markets screen" width="140" /><br /><sub>Markets</sub></td>
+    <td align="center"><img src="assets/5.png" alt="Jewellery, investment, and conversion calculators" width="140" /><br /><sub>Calculators</sub></td>
+    <td align="center"><img src="assets/6.png" alt="Sonexa settings screen" width="140" /><br /><sub>Settings</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/7.png" alt="Gold price chart and Market watch" width="140" /><br /><sub>Chart and Market watch</sub></td>
+    <td align="center"><img src="assets/8.png" alt="Tanishq Digital Gold sell page in the in-app WebView" width="140" /><br /><sub>Gold sell WebView</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Market data
 
